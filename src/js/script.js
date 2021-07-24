@@ -38,6 +38,8 @@
       /* add element to list */
       booksList.appendChild(book);
     }
+
+
   };
 
   render();
